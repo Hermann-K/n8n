@@ -480,6 +480,7 @@
       "dist/nodes/Postgres/Postgres.node.js",
       "dist/nodes/PostHog/PostHog.node.js",
       "dist/nodes/Postmark/PostmarkTrigger.node.js",
+      "dist/nodes/PPAPI/ppapi.node.js",
       "dist/nodes/ProfitWell/ProfitWell.node.js",
       "dist/nodes/Pushbullet/Pushbullet.node.js",
       "dist/nodes/Pushcut/Pushcut.node.js",

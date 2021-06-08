@@ -1,0 +1,15 @@
+{
+	"node": "n8n-nodes-base.ppapi",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Communication"
+	],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "http://ppapi.xidraslbs.com/v1/redoc"
+			}
+		]
+	}
+}
